@@ -30,3 +30,8 @@ The homepage posts name, email, optional phone/year, make, model, service and me
 The inbox owner must activate the form using the FormSubmit email triggered by an initial submission. Then confirm a real test inquiry arrives and reply-to uses the submitter email. Email delivery has not yet been tested. Do not treat deployment alone as proof of email delivery.
 
 When connecting the custom domain, update the form's _next and _url fields to the final HTTPS domain. The thank-you page is noindex and excluded from the sitemap.
+
+## Reviews and hours
+Regular hours read from the matching Google Maps listing on September 30, 2026: Mon–Fri 09:00–18:00, Sat 10:00–17:00, Sun 11:00–17:00. Holiday hours may differ.
+The Reviews section currently links to the live Google Business Profile. It does not embed or automatically sync review data. All-review syncing requires an authorized Google Business Profile API integration or a connected review widget. No fake testimonials or ratings are used.
+The requested NPS certification wording is pending clarification; the shop's existing inspection imagery references MPI.
